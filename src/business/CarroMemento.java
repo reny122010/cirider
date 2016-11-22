@@ -9,6 +9,6 @@ package business;
  *
  * @author Rene
  */
-class AutenticacaoSistema {
+public class NovoClass {
     
 }

@@ -26,7 +26,7 @@ public class ControladorCaroneiro{
     
     private GerenteDeRota gerenteDeRota;
     private GerenteDeNotificao gerenteDeNotificao;
-    private AutenticacaoSistema autenticacaoSistema;
+    private AutenticarUsuarioChain autenticacaoSistema;
     private Compressao compressao;
     
     public ControladorCaroneiro(Command cmd){

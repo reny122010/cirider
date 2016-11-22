@@ -58,13 +58,13 @@ public class ControladorCaronaIndisponivel implements CaroneiroState{
     }
 
     @Override
-    public AutenticacaoSistema getAutenticacaoSistema() {
+    public AutenticarUsuarioChain getAutenticacaoSistema() {
         return null;
         //Pegar autenticacao
     }
 
     @Override
-    public void setAutenticacaoSistema(AutenticacaoSistema autenticacaoSistema) {
+    public void setAutenticacaoSistema(AutenticarUsuarioChain autenticacaoSistema) {
         //Setar Autenticacao
     }
 

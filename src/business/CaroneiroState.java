@@ -19,8 +19,8 @@ public interface CaroneiroState {
     public void setGerenteDeRota(GerenteDeRota gerenteDeRota);
     public GerenteDeNotificao getGerenteDeNotificao();
     public void setGerenteDeNotificao(GerenteDeNotificao gerenteDeNotificao);
-    public AutenticacaoSistema getAutenticacaoSistema();
-    public void setAutenticacaoSistema(AutenticacaoSistema autenticacaoSistema);
+    public AutenticarUsuarioChain getAutenticacaoSistema();
+    public void setAutenticacaoSistema(AutenticarUsuarioChain autenticacaoSistema);
     public Compressao getCompressao();
     public void setCompressao(Compressao compressao);
 }

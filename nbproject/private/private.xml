@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Rene/Documents/NetBeansProjects/Ci-Rider/src/infra/IPersistencia.java</file>
+            <file>file:/C:/Users/Rene/Documents/NetBeansProjects/Ci-Rider/src/business/ControladorCaroneiro.java</file>
+            <file>file:/C:/Users/Rene/Documents/NetBeansProjects/Ci-Rider/src/business/caroneidocmd/FazerAvaliacaoOBJ.java</file>
+            <file>file:/C:/Users/Rene/Documents/NetBeansProjects/Ci-Rider/src/model/Motorista.java</file>
+            <file>file:/C:/Users/Rene/Documents/NetBeansProjects/Ci-Rider/src/infra/BancoDados.java</file>
+            <file>file:/C:/Users/Rene/Documents/NetBeansProjects/Ci-Rider/src/business/caroneidocmd/AlterarModoUsuarioOBJ.java</file>
+            <file>file:/C:/Users/Rene/Documents/NetBeansProjects/Ci-Rider/src/business/Compressao.java</file>
+            <file>file:/C:/Users/Rene/Documents/NetBeansProjects/Ci-Rider/src/model/Localizacao.java</file>
+            <file>file:/C:/Users/Rene/Documents/NetBeansProjects/Ci-Rider/src/business/CaroneiroState.java</file>
+            <file>file:/C:/Users/Rene/Documents/NetBeansProjects/Ci-Rider/src/model/Veiculo.java</file>
+            <file>file:/C:/Users/Rene/Documents/NetBeansProjects/Ci-Rider/src/model/Administrador.java</file>
+            <file>file:/C:/Users/Rene/Documents/NetBeansProjects/Ci-Rider/src/model/Usuario.java</file>
+            <file>file:/C:/Users/Rene/Documents/NetBeansProjects/Ci-Rider/src/business/Command.java</file>
+            <file>file:/C:/Users/Rene/Documents/NetBeansProjects/Ci-Rider/src/business/caroneidocmd/PedirCaronaOBJ.java</file>
+            <file>file:/C:/Users/Rene/Documents/NetBeansProjects/Ci-Rider/src/business/caroneidocmd/ConcluirCaronaOBJ.java</file>
+            <file>file:/C:/Users/Rene/Documents/NetBeansProjects/Ci-Rider/src/business/AutenticacaoSistema.java</file>
+            <file>file:/C:/Users/Rene/Documents/NetBeansProjects/Ci-Rider/src/business/caroneidocmd/CancelarCaronaOBJ.java</file>
+            <file>file:/C:/Users/Rene/Documents/NetBeansProjects/Ci-Rider/src/model/Caroneiro.java</file>
+            <file>file:/C:/Users/Rene/Documents/NetBeansProjects/Ci-Rider/src/business/ControladorCaronaDisponivel.java</file>
+            <file>file:/C:/Users/Rene/Documents/NetBeansProjects/Ci-Rider/src/business/ControladorCaronaIndisponivel.java</file>
+            <file>file:/C:/Users/Rene/Documents/NetBeansProjects/Ci-Rider/src/business/GerenteDeRota.java</file>
+            <file>file:/C:/Users/Rene/Documents/NetBeansProjects/Ci-Rider/src/business/GerenteDeNotificao.java</file>
+        </group>
+    </open-files>
+</project-private>
